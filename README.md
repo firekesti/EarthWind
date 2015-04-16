@@ -4,3 +4,7 @@ This is a dead-simple Android app that wraps earth.nullschool.net to use it as a
 It uses Immersive Mode on KitKat and up so that the "earth" button can be tapped more easily.
 
 For the original website's source, see https://github.com/cambecc/earth.
+
+--
+
+![screenshot](https://raw.githubusercontent.com/firekesti/EarthWind/master/screenshot.png)
