@@ -25,7 +25,6 @@ public class FullscreenActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_fullscreen);
-        getActionBar().hide();
 
         final WebView contentView = (WebView) findViewById(R.id.fullscreen_content);
         contentView.setBackgroundColor(0);
